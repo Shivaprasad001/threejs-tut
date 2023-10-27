@@ -9,6 +9,7 @@
   "author": "Shivprasad Babu",
   "license": "ISC",
   "dependencies": {
+    "dat.gui": "^0.7.9",
     "three": "^0.157.0"
   },
   "repository": {

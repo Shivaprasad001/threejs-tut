@@ -1,0 +1,22 @@
+{
+  "name": "threetut",
+  "version": "1.0.0",
+  "description": "Three JS tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivprasad Babu",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.157.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivaprasad001/threejs-tut.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shivaprasad001/threejs-tut/issues"
+  },
+  "homepage": "https://github.com/Shivaprasad001/threejs-tut#readme"
+}
